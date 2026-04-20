@@ -13,4 +13,4 @@ complex network
 
 [这是python的官网连接](https://www.python.org/)
 ### 学习AI第三天
-![这是图片](/img/jpg1.jpg "dog")
+![这是图片](./img/jpg1.jpg "dog")
